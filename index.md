@@ -13,8 +13,8 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 </a>
 
 > ## Links
-> * [CMSDAS at LPC2025](https://indico.cern.ch/event/1462056/)
-> * [Github repo](https://github.com/kakwok/MDS_CMSDAS/tree/2025)
+> * [CMSDAS at LPC2026](https://indico.cern.ch/event/1462056/)
+> * [Github repo](https://github.com/FNALLPC/MDS_CMSDAS)
 > * [Paper reference](https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-015/index.html)
 > * [EXO-20-015 CADI page](https://cms.cern.ch/iCMS/analysisadmin/cadilines?id=2391&ancode=EXO-20-015&tp=an&line=EXO-20-015)
 {: .callout}
@@ -47,8 +47,8 @@ Students will perform the full analysis to search for LLPs decaying in the endca
  * perform statistical analysis on the results
  * make event displays of signal simulation events
 
-### Facilitators CMSDAS LPC 2025
-<img src="fig/facilitators_2025.png" alt="" style="width:80%">
+### Facilitators CMSDAS LPC 2026
+<img src="fig/facilitators_2026.png" alt="" style="width:80%">
 
  * Christina Wang (FNAL)
  * Irene Dutta (FNAL)
