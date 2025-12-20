@@ -50,18 +50,20 @@ Students will perform the full analysis to search for LLPs decaying in the endca
 ### Facilitators CMSDAS LPC 2025
 <img src="fig/facilitators_2025.png" alt="" style="width:80%">
 
- * Martin Kwok (FNAL)
  * Christina Wang (FNAL)
- * Daniel Diaz (UCSD)
- * Emery Nibigira (Tennessee)	 
+ * Irene Dutta (FNAL)
+ * Colin Crovella (University of Alabama)
+ * Murtaza Safdari (FNAL)
+ * Richa Sharma (University of Puerto Rico)
+ * Gokcen Karslioglu (Purdue)
 
 ### Introductory slides
 
-We will start with this introductory slides: [CMSDAS_2025.pdf](https://indico.cern.ch/event/1462056/contributions/6313496/attachments/2996184/5278686/CMSDAS_2025.pdf).
+We will start with this introductory slides: [CMSDAS.pdf](https://indico.cern.ch/event/1462056/contributions/6313496/attachments/2996184/5278686/CMSDAS_2025.pdf).
 
 ### Support
 
-Join the [LongEX LLP Mattermost channel](https://mattermost.web.cern.ch/cmsdaslpc2025/channels/longexmds) and don't hesitate to ask for help from the facilitators in the room.
+Join the [LongEX LLP Mattermost channel](https://mattermost.web.cern.ch/cmsdaslpc2026/channels/longexllp) and don't hesitate to ask for help from the facilitators in the room.
 
 
 {% include links.md %}
