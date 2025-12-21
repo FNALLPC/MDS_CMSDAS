@@ -20,7 +20,7 @@ cmsrel CMSSW_14_1_0_pre4
 cd CMSSW_14_1_0_pre4/src
 cmsenv
 
-git clone git@github.com:kakwok/MDS_CMSDAS.git -b 2025
+git clone git@github.com:FNALLPC/MDS_CMSDAS.git -b 2025
 cd MDS_CMSDAS 
 ~~~
 {: .language-bash}
@@ -43,18 +43,18 @@ jupyter notebook --no-browser --port=8888 --ip 127.0.0.1
 If these two lines are running sucessfully, you should see something like this:
 ~~~
 
-[I 16:02:17.479 NotebookApp] Serving notebooks from local directory: /uscms_data/d3/kkwok/cmsdas/MDS_Ex/MDS_CMSDAS
-[I 16:02:17.480 NotebookApp] Jupyter Notebook 6.4.0 is running at:
-[I 16:02:17.480 NotebookApp] http://127.0.0.1:8888/?token=6aaf053d114b42696b20bc6df83c1c9078e1253a91cce3b3
-[I 16:02:17.480 NotebookApp]  or http://127.0.0.1:8888/?token=6aaf053d114b42696b20bc6df83c1c9078e1253a91cce3b3
-[I 16:02:17.480 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 16:02:17.516 NotebookApp] 
-    
+[I 12:55:39.283 NotebookApp] Serving notebooks from local directory: /uscms_data/d3/christiw/MDSDAS_test/CMSSW_14_1_0_pre4/src/MDS_CMSDAS
+[I 12:55:39.283 NotebookApp] Jupyter Notebook 6.4.0 is running at:
+[I 12:55:39.283 NotebookApp] http://127.0.0.1:8888/?token=230ce3a068580ce4d808fde4b44c8575ebe4ae0fbb7d4b4f
+[I 12:55:39.283 NotebookApp]  or http://127.0.0.1:8888/?token=230ce3a068580ce4d808fde4b44c8575ebe4ae0fbb7d4b4f
+[I 12:55:39.283 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:55:39.321 NotebookApp]
+
     To access the notebook, open this file in a browser:
-        file:///uscms/homes/k/kkwok/.local/share/jupyter/runtime/nbserver-26071-open.html
+        file:///uscms/homes/c/christiw/.local/share/jupyter/runtime/nbserver-412704-open.html
     Or copy and paste one of these URLs:
-        http://127.0.0.1:8888/?token=6aaf053d114b42696b20bc6df83c1c9078e1253a91cce3b3
-     or http://127.0.0.1:8888/?token=6aaf053d114b42696b20bc6df83c1c9078e1253a91cce3b3
+        http://127.0.0.1:8888/?token=230ce3a068580ce4d808fde4b44c8575ebe4ae0fbb7d4b4f
+     or http://127.0.0.1:8888/?token=230ce3a068580ce4d808fde4b44c8575ebe4ae0fbb7d4b4f
 ~~~
 {: .output}
 
