@@ -22,7 +22,7 @@ keypoints:
 > ## After following the instructions in the setup:
 >
 > ~~~
-> cd <YOUR WORKING DIRECTORY>/CMSSW_14_1_0_pre4/src/MDS_CMSDAS
+> cd <YOUR WORKING DIRECTORY>/CMSSW_14_1_0_pre4/src/MDS_CMSDAS/scripts
 > source /cvmfs/sft.cern.ch/lcg/views/LCG_105/x86_64-el9-gcc11-opt/setup.sh
 > jupyter notebook --no-browser --port=8888 --ip 127.0.0.1
 > ~~~
