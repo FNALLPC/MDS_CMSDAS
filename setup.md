@@ -20,7 +20,7 @@ cmsrel CMSSW_14_1_0_pre4
 cd CMSSW_14_1_0_pre4/src
 cmsenv
 
-git clone git@github.com:FNALLPC/MDS_CMSDAS.git -b 2025
+git clone git@github.com:FNALLPC/MDS_CMSDAS.git -b 2026
 cd MDS_CMSDAS 
 ~~~
 {: .language-bash}
