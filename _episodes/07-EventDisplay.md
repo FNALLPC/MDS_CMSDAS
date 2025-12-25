@@ -5,7 +5,7 @@ exercises: 60
 questions:
 - "How to make event displays of interesting signal simulation?"
 objectives:
-- "Learn to make event displays by choosing the interesting events in RECO format and open them with cmsShow"
+- "Learn to make and inspects event displays with cmsShow"
 keypoints:
 - "Event displays allow us to view all available collections visually and scrutinize event topologies that are not possible with ntuples"
 ---
