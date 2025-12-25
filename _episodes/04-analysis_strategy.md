@@ -117,7 +117,7 @@ In this exercise you will plot the number of ME11/ME12 hits in clusters for sign
 
 > ## Discussion 4.2
 >
-> Does the shape make sense to you? Why does signal has small values and background has larger values? The analysis requires clusters to have no hits in ME11 and ME12, does you agree with the selection?
+> Does the shape make sense to you? Why does signal has small values and background has larger values? Why does the background have peaks at around 6 and 12? The analysis requires clusters to have no hits in ME11 and ME12, does you agree with the selection?
 > 
 {: .discussion}
 
