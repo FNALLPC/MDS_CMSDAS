@@ -13,7 +13,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 </a>
 
 > ## Links
-> * [CMSDAS at LPC2026](https://indico.cern.ch/event/1462056/)
+> * [CMSDAS at LPC2026](https://indico.cern.ch/event/1518299/)
 > * [Github repo](https://github.com/FNALLPC/MDS_CMSDAS)
 > * [Paper reference](https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-015/index.html)
 > * [EXO-20-015 CADI page](https://cms.cern.ch/iCMS/analysisadmin/cadilines?id=2391&ancode=EXO-20-015&tp=an&line=EXO-20-015)
