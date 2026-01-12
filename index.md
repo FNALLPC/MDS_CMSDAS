@@ -51,11 +51,11 @@ Students will perform the full analysis to search for LLPs decaying in the endca
 <img src="fig/facilitators_2026.png" alt="" style="width:80%">
 
  * Christina Wang (FNAL)
- * Irene Dutta (FNAL)
  * Colin Crovella (University of Alabama)
+ * Irene Dutta (FNAL)
+ * Gigi Gokcen Karslioglu (Purdue)
  * Murtaza Safdari (FNAL)
  * Richa Sharma (University of Puerto Rico)
- * Gokcen Karslioglu (Purdue)
 
 ### Introductory slides
 
